@@ -2,6 +2,8 @@
 
 This is an Applescript for high-throughput encoding of media files.
 
+Video: https://www.youtube.com/watch?v=u0xwMJAwEI8
+
 ## Architecture
 
 - Applescript running on a Mac.
